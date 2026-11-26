@@ -34,7 +34,7 @@ The main objective is to improve energy efficiency by controlling street lights 
 
 - Keil µVision IDE
 - Embedded C
-- Proteus Design Suite (for circuit simulation, if used)
+- Proteus Design Suite 
 
 ## 5. System Block Diagram
 
@@ -65,7 +65,7 @@ The main objective is to improve energy efficiency by controlling street lights 
 | Matrix Keypad | Provides user input |
 | LED Control | Controls street light LEDs |
 
-**Note:** The RTC used in this project is the internal RTC peripheral of the LPC2148. No external RTC module is required.
+
 
 ## 9. Project Folder Structure
 
